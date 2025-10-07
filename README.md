@@ -1,5 +1,4 @@
 # happy-birthday
 Happy Birthday Website made using Html, css and JavaScript
-<a href="https://programmergaurav.me/happy-birthday/?name=Gaurav" target="blank">Click Here</a>
-# HappyBirthdaySang
+https://duydq123.github.io/HappyBirthdayVy/
 # HappyBirthdayVy
